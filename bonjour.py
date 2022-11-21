@@ -1,2 +1,1 @@
-##essai de programation sur numpy
-print("Bonjour Monde")
+print("remise à zero")
