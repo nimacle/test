@@ -1,4 +1,5 @@
-print("remise à zero")
+print("pas daccord")
+
 
 
 print("alalala")
