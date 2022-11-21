@@ -1,2 +1,2 @@
 ##essai de programation sur numpy
-print("hello world")
+print("Bonjour Monde")
